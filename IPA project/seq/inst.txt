@@ -1,0 +1,45 @@
+clk=0 PC=                   0 icode=0011 ifun=0000 rA=0000 rB=0000,valC=                   0,valP=                  10
+
+clk=1 PC=                   0 icode=0011 ifun=0000 rA=0000 rB=0000,valC=                   0,valP=                  10
+
+clk=0 PC=                  10 icode=0011 ifun=0000 rA=0000 rB=0010,valC=                  16,valP=                  20
+
+clk=1 PC=                  10 icode=0011 ifun=0000 rA=0000 rB=0010,valC=                  16,valP=                  20
+
+clk=0 PC=                  20 icode=0011 ifun=0000 rA=0000 rB=0011,valC=                  12,valP=                  30
+
+clk=1 PC=                  20 icode=0011 ifun=0000 rA=0000 rB=0011,valC=                  12,valP=                  30
+
+clk=0 PC=                  30 icode=0111 ifun=0000 rA=0000 rB=0011,valC=                  39,valP=                  39
+
+clk=1 PC=                  30 icode=0111 ifun=0000 rA=0000 rB=0011,valC=                  39,valP=                  39
+
+clk=0 PC=                  39 icode=0110 ifun=0000 rA=0000 rB=0011,valC=                  39,valP=                  41
+
+clk=1 PC=                  39 icode=0110 ifun=0000 rA=0000 rB=0011,valC=                  39,valP=                  41
+
+clk=0 PC=                  41 icode=0111 ifun=0011 rA=0000 rB=0011,valC=                 122,valP=                  50
+
+clk=1 PC=                  41 icode=0111 ifun=0011 rA=0000 rB=0011,valC=                 122,valP=                  50
+
+clk=0 PC=                  50 icode=0110 ifun=0000 rA=0000 rB=0010,valC=                 122,valP=                  52
+
+clk=1 PC=                  50 icode=0110 ifun=0000 rA=0000 rB=0010,valC=                 122,valP=                  52
+
+clk=0 PC=                  52 icode=0111 ifun=0011 rA=0000 rB=0010,valC=                 125,valP=                  61
+
+clk=1 PC=                  52 icode=0111 ifun=0011 rA=0000 rB=0010,valC=                 125,valP=                  61
+
+clk=0 PC=                  61 icode=0111 ifun=0000 rA=0000 rB=0010,valC=                  70,valP=                  70
+
+clk=1 PC=                  61 icode=0111 ifun=0000 rA=0000 rB=0010,valC=                  70,valP=                  70
+
+clk=0 PC=                  70 icode=0010 ifun=0000 rA=0010 rB=0110,valC=                  70,valP=                  72
+
+clk=1 PC=                  70 icode=0010 ifun=0000 rA=0010 rB=0110,valC=                  70,valP=                  72
+
+clk=0 PC=                  72 icode=0010 ifun=0000 rA=0011 rB=0111,valC=                  70,valP=                  74
+
+clk=1 PC=                  72 icode=0010 ifun=0000 rA=0011 rB=0111,valC=                  70,valP=                  74
+
+clk=0 PC=                  74 icode=0110 ifun=0001 rA=0011 rB=0110,valC=                  70,valP=                  76
